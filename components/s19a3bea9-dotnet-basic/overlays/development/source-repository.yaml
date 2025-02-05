@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s19a3bea9-dotnet-basic-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/s19a3bea9-dotnet-basic
